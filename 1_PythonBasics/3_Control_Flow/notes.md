@@ -15,7 +15,7 @@ blocks are defined by indentation (no braces).
 ```python
 temperature = 21
 
-if temperature > 30:/Users/timothyteh/Documents/Tutoring/Coding Tuition/CodingTuition/PythonBasics
+if temperature > 30:
     print("hot")
 elif temperature > 15:
     print("mild")
